@@ -9,5 +9,5 @@
 |Day|Subject|Result|link|
 |:---:|:---:|:---:|:---:|
 |2/1|画面の中央に円を描くところからコードを書いてください。|![image](https://user-images.githubusercontent.com/51439199/151987850-96945c63-22ae-4bad-b4ad-68ddddbcab1c.png)||
-
+|2/2|30分コードを書いてください。もちろん途中でやめても構いません。「こうしたかった」という部分をシェアしてください。|JavaでSwingの処理を書いた/macの表示に合わせた||
 
